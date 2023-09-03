@@ -10,4 +10,4 @@
 ### References
 [Mozilla - React getting started](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 
-[React official documentation](https://pt-br.legacy.reactjs.org/)
+[React official documentation](https://react.dev/learn)
