@@ -1,3 +1,5 @@
+import Todo from "./components/Todo";
+
 export default function App(props) {
   return (
     <div className="todoapp stack-large">
