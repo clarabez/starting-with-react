@@ -5,6 +5,7 @@
 - React is focused in renreding so we, devs, can be more concentrated in the UI itself;
 - We can use React in a single component like a button, for example. It is based on components;
 - JSX means JavaScript + XML. That is the main difference between React and JavaScript.
+- 'Props' is a way to send data to a component - which cannot be accessed by a variable.
 
 
 ### References
