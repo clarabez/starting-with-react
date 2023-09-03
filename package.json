@@ -1,0 +1,8 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/clarabez/starting-with-react.git",
+  "author": "Maria Clara Bezerra <clarinhab@gmail.com>",
+  "license": "MIT"
+}
