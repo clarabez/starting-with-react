@@ -8,6 +8,16 @@
 - JSX means JavaScript + XML. That is the main difference between React and JavaScript.
 - 'Props' is a way to send data to a component - which cannot be accessed by a variable.
 
+## Fundamentals
+
+## HTTP
+
+## Routing
+
+## Redux
+
+## Utilities
+
 ### ES
 Stands for ECMAScript. Basically the newst JS version. It is like the official name for JavaScript.
 
@@ -16,8 +26,9 @@ Stands for ECMAScript. Basically the newst JS version. It is like the official n
 I am following the content suggestion so I am creating a To Do List. Some user cases for this project:
 
 
-# HTML
+# HTML recap
 - HyperText Markup Language.
+- When writing HTML code, it's important to focus on the semantics rather than the appearance.
 
 ### References
 [Mozilla - React getting started](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
